@@ -2,3 +2,25 @@
     margin: 0;
     padding: 0;
 }
+.card {
+    background: #dbdbdb !important;
+}
+.col-md-12.mt-4 {
+    background: #dbdbdb;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.card {
+    background: #dbdbdb;
+}
+
+.col-md-12.mt-4 {
+    background: #dbdbdb;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+textarea#desc, input#title {
+        background-color: #4f6071;
+        color: #fff
+}
