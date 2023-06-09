@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>Item Details</title>
+    <link href="{{ url_for('static', path='/style.css') }}" rel="stylesheet">
+</head>
+<body>
+    {% for note in notes %}
+    <!-- <h4>Note {{ loop.index }}</h4> -->
+    <h1>{{ note.title }}</h1>
+    <p>{{ note.desc }}</p>
+    {% endfor %}
+
+    
+</body>
+</html>
