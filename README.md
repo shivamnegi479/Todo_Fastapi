@@ -3,7 +3,7 @@ Todo Fastapi
 </h1>
 <p>It is a simple application that allows users to manage their tasks or to-do items. It provides basic functionality such as creating new tasks, viewing existing tasks, and deleting tasks.</p>
 
-    <h5>Backend (FastAPI):</h5>
+<h5>Backend (FastAPI):</h5>
     <ul>
         <li>FastAPI is used as the web framework to handle HTTP requests and responses.
             </li>
