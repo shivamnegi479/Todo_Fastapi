@@ -26,3 +26,4 @@ Todo App
         <li>JavaScript is used to handle user interactions and perform actions like submitting forms</li>
         <li>CSS stylesheets are used to define the visual appearance and layout of the web pages.</li>
     </ul>
+<img src="Screenshot 2023-06-14 112535.png">
