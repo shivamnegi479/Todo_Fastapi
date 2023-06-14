@@ -12,18 +12,16 @@ Todo Fastapi
         <li>The backend performs operations like creating new tasks, fetching all tasks, and deleting tasks from the database.</li>
     </ul>
  <h5>Database (MongoDB):</h5>
-    <ul>
-        <li>MongoDB is used as the database to store the Todo items.
-            
-        <li>Each Todo item is represented as a document in a collection.</li>
-        <li>
+   <ul>
+      <li>MongoDB is used as the database to store the Todo items.    
+      <li>Each Todo item is represented as a document in a collection.</li>
+       <li>
             The documents contain fields such as ID, title, description, and status (completed or not).</li>
-
         </li>
     </ul>
-  <h5>Frontend (Jinja templates, JavaScript, CSS):</h5>
-    <ul>
-        <li>Jinja templates are used to generate dynamic HTML pages with placeholders for data from the backend.</li>
+<h5>Frontend (Jinja templates, JavaScript, CSS):</h5>
+<ul>
+ <li>Jinja templates are used to generate dynamic HTML pages with placeholders for data from the backend.</li>
         <li>HTML templates are rendered by the server and sent to the client.</li>
         <li>JavaScript is used to handle user interactions and perform actions like submitting forms</li>
         <li>CSS stylesheets are used to define the visual appearance and layout of the web pages.</li>
