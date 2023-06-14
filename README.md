@@ -1,5 +1,5 @@
 <h1>
-Todo Fastapi
+Todo App
 </h1>
 <p>It is a simple application that allows users to manage their tasks or to-do items. It provides basic functionality such as creating new tasks, viewing existing tasks, and deleting tasks.</p>
 
