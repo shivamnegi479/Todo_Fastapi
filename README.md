@@ -11,7 +11,7 @@ Todo Fastapi
         <li>Endpoints are configured to interact with a MongoDB database for data storage and retrieval.</li>
         <li>The backend performs operations like creating new tasks, fetching all tasks, and deleting tasks from the database.</li>
     </ul>
-    <h5>Database (MongoDB):</h5>
+ <h5>Database (MongoDB):</h5>
     <ul>
         <li>MongoDB is used as the database to store the Todo items.
             
@@ -21,7 +21,7 @@ Todo Fastapi
 
         </li>
     </ul>
-    <h5>Frontend (Jinja templates, JavaScript, CSS):</h5>
+  <h5>Frontend (Jinja templates, JavaScript, CSS):</h5>
     <ul>
         <li>Jinja templates are used to generate dynamic HTML pages with placeholders for data from the backend.</li>
         <li>HTML templates are rendered by the server and sent to the client.</li>
